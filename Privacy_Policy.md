@@ -47,7 +47,12 @@ We may update our Privacy Policy from time to time. You are advised to review th
 
 ---
 
-## 7. Contact Us
+## Terms of Use (EULA)
+[Subject to Apple's Standard EULA.](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+
+---
+
+## 8. Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us:
 
 - **Developer Name:** Divyesh Murani
