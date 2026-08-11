@@ -47,7 +47,7 @@ We may update our Privacy Policy from time to time. You are advised to review th
 
 ---
 
-## Terms of Use (EULA)
+## 7. Terms of Use (EULA)
 [Subject to Apple's Standard EULA.](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ---
