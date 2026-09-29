@@ -27,8 +27,16 @@ In-App Purchases (Monthly and Yearly Premium Subscriptions) are processed direct
 ---
 
 ## 3. Analytics and Advertising
-- **No Third-Party Advertising:** The app contains no third-party advertisements.
-- **No User Tracking:** We do not track you across other apps or websites, nor do we sell your data to data brokers or advertising networks.
+- To support the continued development of this free app, we display advertisements provided by Google AdMob. 
+These third-party services may collect certain device-level information to serve ads and analyze performance:
+1. **Google AdMob (Advertising)**:
+   - May collect device identifiers (such as IDFV or device-level IDs), approximate location, and ad interaction data to serve, measure, and limit the frequency of advertisements.
+   - For more information on how Google collects and uses your data, please review [Google's Privacy & Terms](https://policies.google.com/technologies/ads).
+2. **Firebase Analytics & Crashlytics (Diagnostics & Performance)**:
+   - We use Google Firebase to diagnose app crashes, monitor hang rates, and understand overall app performance. This data is collected in an aggregated, non-personally identifiable manner.
+   - For details, visit [Google Privacy Policy](https://policies.google.com/privacy).
+3. **No Personal Data Sale**:
+   - We do not sell, rent, or trade your personal data. We do not have user accounts or login systems, and reminder content created inside the app remains strictly on your local device.
 
 ---
 
